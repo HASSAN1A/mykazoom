@@ -1,0 +1,5 @@
+# gcc coverage testing tool files
+.env
+*.gcno
+*.gcda
+*.gcov
